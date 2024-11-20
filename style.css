@@ -1,0 +1,24 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #f2f2f2;
+    margin: 30px;
+}
+
+section {
+    margin-bottom: 40px;
+    padding: 20px;
+    border: black solid;
+    border-radius: 10px;
+}
+
+button{
+    padding: 10px 20px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+input{
+    padding: 5px;
+    margin: 10px;
+    width: 200px;
+}
